@@ -1,0 +1,32 @@
+{
+  "version": "3.1.4",
+  "released": "2026-03-25T22:38:40Z",
+  "changelog": "https://github.com/BAGADIR/Eidon-releases/releases/tag/v3.1.4",
+  "assets": {
+    "windows-x64": {
+      "url":    "https://github.com/BAGADIR/Eidon-releases/releases/download/v3.1.4/eidon-windows-x64.exe",
+      "sha256": "f6f19f3321c70ce552c9da9499896e33e2f5074d6e0dd28049574deb838a555f",
+      "size":   84357490
+    },
+    "macos-arm64": {
+      "url":    "https://github.com/BAGADIR/Eidon-releases/releases/download/v3.1.4/eidon-macos-arm64",
+      "sha256": "98ed3d6d5448d29391ef48d429485d3c242746e1cd424a99038d453c9a1e2602",
+      "size":   77770883
+    },
+    "macos-x64": {
+      "url":    "https://github.com/BAGADIR/Eidon-releases/releases/download/v3.1.4/eidon-macos-x64",
+      "sha256": "1cf9651e2ba43a0de60a8755fcbba4c3d821a6a006f9ce34d88305d320bb2b3c",
+      "size":   91837379
+    },
+    "linux-x64": {
+      "url":    "https://github.com/BAGADIR/Eidon-releases/releases/download/v3.1.4/eidon-linux-x64",
+      "sha256": "703ce684e893148b224e8716f09d06a923ae0cef66d2be3aab0e7a8c7f349ddc",
+      "size":   98306515
+    },
+    "linux-arm64": {
+      "url":    "https://github.com/BAGADIR/Eidon-releases/releases/download/v3.1.4/eidon-linux-arm64",
+      "sha256": "8da79572464e2b84826546cdd942a58c99f6f61e0e0897b02d47fa09bb3160f8",
+      "size":   83575506
+    }
+  }
+}
